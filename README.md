@@ -1,16 +1,21 @@
-### Hi there 👋
+### # Hi there, I am Bianca Calacan! :raising_hand: 
+---
+ :bulb: About me:
+ 
+I am a hardworking individual and creative Entry Level Web Developer who always strives
+to achieve the highest standard possible, at any given task. I like to develop, test and document applications using best software engineering practices.
 
-<!--
-**BiancaCalacan/BiancaCalacan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+:trophy: Knowledge of: 
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img src="https://github.com/devicons/devicon/blob/master/icons/html5/html5-original.svg" alt="html" width="40px" height="40px"> <img  src="https://github.com/devicons/devicon/blob/master/icons/css3/css3-original.svg" alt="css" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/git/git-original-wordmark.svg" alt="git" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/bootstrap/bootstrap-plain.svg" alt="bootstrap" width="40px" height="40px">
+
+---
+
+ :book: Currently learning:
+
+ <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" alt="javascript" width="40px" height="40px"> <img src="https://github.com/devicons/devicon/blob/master/icons/jquery/jquery-original.svg" alt="jquery" width="40px" height="40px">
+
+:soon:    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original.svg"  alt="react" width="40px" height="40px">
+
