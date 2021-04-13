@@ -1,4 +1,4 @@
-### # Hi there, I am Bianca Calacan! :raising_hand: 
+###  Hi there, I am Bianca Calacan! :raising_hand: 
 ---
  :bulb: About me:
  
