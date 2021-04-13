@@ -3,7 +3,7 @@
  :bulb: About me:
  
 I am a hardworking individual and creative Entry Level Web Developer who always strives
-to achieve the highest standard possible, at any given task. I like to develop, test and document applications using best software engineering practices.
+to achieve the highest standard possible, at any given task. I find developing and testing new applications very appealing, and my organized nature makes it easy to have all my work really well documented at all times.
 
 ---
 
